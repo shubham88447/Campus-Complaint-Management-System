@@ -1,8 +1,4 @@
-"""
-Smart Campus Complaint System - NLP Engine
-Includes TF-IDF + Multinomial Naive Bayes Text Classification, Urgency/Priority Detection,
-Key Phrase Extraction, and Automated Department Routing.
-"""
+
 
 import re
 import math
